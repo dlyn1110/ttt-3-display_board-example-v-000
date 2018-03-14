@@ -6,4 +6,4 @@ puts "- - - - - - - - - - -"
 puts "       |      |      "
 end
 
-def display_board
+
